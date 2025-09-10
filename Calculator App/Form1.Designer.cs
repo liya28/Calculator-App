@@ -189,9 +189,9 @@
             this.buttonClear.BackColor = System.Drawing.Color.DarkMagenta;
             this.buttonClear.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonClear.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.buttonClear.Location = new System.Drawing.Point(15, 412);
+            this.buttonClear.Location = new System.Drawing.Point(171, 324);
             this.buttonClear.Name = "buttonClear";
-            this.buttonClear.Size = new System.Drawing.Size(228, 36);
+            this.buttonClear.Size = new System.Drawing.Size(72, 36);
             this.buttonClear.TabIndex = 10;
             this.buttonClear.Text = "Clear";
             this.buttonClear.UseVisualStyleBackColor = false;
@@ -237,12 +237,12 @@
             // 
             // buttonEquals
             // 
-            this.buttonEquals.BackColor = System.Drawing.Color.MediumVioletRed;
+            this.buttonEquals.BackColor = System.Drawing.Color.DarkMagenta;
             this.buttonEquals.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonEquals.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.buttonEquals.Location = new System.Drawing.Point(171, 282);
+            this.buttonEquals.Location = new System.Drawing.Point(15, 412);
             this.buttonEquals.Name = "buttonEquals";
-            this.buttonEquals.Size = new System.Drawing.Size(72, 36);
+            this.buttonEquals.Size = new System.Drawing.Size(228, 36);
             this.buttonEquals.TabIndex = 16;
             this.buttonEquals.Text = "=";
             this.buttonEquals.UseVisualStyleBackColor = false;
@@ -333,7 +333,7 @@
             this.buttonSign.BackColor = System.Drawing.Color.MediumVioletRed;
             this.buttonSign.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSign.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.buttonSign.Location = new System.Drawing.Point(171, 324);
+            this.buttonSign.Location = new System.Drawing.Point(171, 282);
             this.buttonSign.Name = "buttonSign";
             this.buttonSign.Size = new System.Drawing.Size(72, 36);
             this.buttonSign.TabIndex = 23;
